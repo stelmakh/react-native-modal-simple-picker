@@ -1,0 +1,35 @@
+{
+  "name": "react-native-modal-simple-picker",
+  "version": "1.0.0",
+  "description": "A simple react-native picker for iOS",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stelmakh/react-native-modal-simple-picker.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "picker",
+    "modal",
+    "ios",
+    "native"
+  ],
+  "dependencies": {
+    "prop-types": "15.5.10",
+    "react-native-modal": "^2.4.0"
+  },
+  "devDependencies": {
+    "react": ">=15.0.0",
+    "react-native": ">=0.24.0"
+  },
+  "author": "Volodymyr Stelmakh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stelmakh/react-native-modal-simple-picker/issues"
+  },
+  "homepage": "https://github.com/stelmakh/react-native-modal-simple-picker#readme"
+}
